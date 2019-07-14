@@ -25,7 +25,7 @@ Template Name: Listenansicht
 					<?php  } else { ?>
 						
 						
-					<? } ?>
+					<?php } ?>
 					
 
 					

@@ -25,7 +25,7 @@ Template Name: Landingpage
 					<?php  } else { ?>
 						
 						<div id="landing-intro" >
-					<? } ?>
+					<?php } ?>
 					
 				
 				<div  class="landing-teaser twelvecol first clearfix">
